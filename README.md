@@ -1,34 +1,25 @@
 # CS61A
 
-### What's is CS61A ?
+### Brief
 
-The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
+The first course in the Berkeley CS61 series, and my introduction to Python.
 
-1. CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
-2. CS 61B deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs.
-3. CS 61C focuses on machines and how they execute programs.
+The CS61 series is an introductory course for the CS major at Berkeley, which includes:
 
-In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
+CS61A: Emphasizes abstraction and teaches students to use programs to solve practical problems without focusing on the underlying hardware details.
 
-CS 61A primarily uses the Python 3 programming language. Python is a popular language in both industry and academia. It is also particularly well-suited to the task of exploring the topics taught in this course. It is an open-source language developed by a large volunteer community that prides itself on the diversity of its contributors. We will also use two other languages in the latter half of the course: the Scheme programming language and the Structured Query Language (SQL).
+CS61B: Focusing on algorithms and data structures and building large-scale programs, students will use the Java language to combine knowledge of algorithms and data structures to build large-scale projects at the level of thousands of lines of code (a simple Google Map, a two-dimensional version of Minecraft).
 
-Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
+CS61C: Focuses on computer architecture, allowing students to understand how a high-level language (e.g. C) is translated step by step into machine-understandable 01 strings and executed in the CPU. Students will learn the RISC-V architecture and implement a CPU themselves with Logisim.
 
-### Useful links
+Going back to CS61A, note that this isn't just a programming language course, but rather a deep dive into how programs are built and run.Finally, we will implement a Scheme interpreter in Python for our fourth Project.In addition, abstraction will be a big theme of this course, and we'll learn about functional programming, data abstraction, object orientation, and more to make our code more readable and modular.Of course, learning programming languages is also a big part of this course. We will learn Python, Scheme and SQL, which are three programming languages. During the study and comparison, we believe that we will develop the ability to quickly master a new programming language.
+
+### Resource
 
 - [Course Website (2020 summer)](https://inst.eecs.berkeley.edu/~cs61a/su20/)
-- [Textbook (SICP for python)](http://composingprograms.com/pages/11-getting-started.html) 
+- [Textbook](https://composingprograms.netlify.app/)
 
-- [Online editor (support scheme, SQL and python)](https://code.cs61a.org)
 
-### Workload
+### Plan
 
-I spent two weeks to finish all the homework, labs and projects. If you are a fresher in coding, this lesson will be a fantastic tour for you to learn the core ideas in programming. Even if you already have some experience in programming, you will certainly learn something that you've never thought of before. For me, I had a much deeper understanding of the higher order function and the use of tail recursion to optimize recursion. What's more, the [python tutor](http://pythontutor.com/composingprograms.html#mode=edit) will help you clearly understand the logic behind program frame and variable bindings.
-
-By the way, I also highly recommend you to read the textbook written for this lesson(the link is above). It is adapted from the legendary book ----《SICP》. If you feel painful to read  《SICP》from head to tail, this book may be a good alternative.
-
-At last, all the start codes and test program for homework, labs and projects are on the course website. You can download them for free. This repository contains my solution specified to the 2020 summer course. Hope this can help you. 
-
-### Wanna Learn More ?
-
-Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
+I decide to use 3 weeks to go throuogh the course and all the other work, since i got a strong fundenmentation, it should not be a hard task.
