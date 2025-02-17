@@ -8,7 +8,7 @@ CS61A, this isn't just a programming language course, but rather a deep dive int
 
 ### Resource
 Berkley的过往课程似乎需要账户验证了
-- [课程大纲 (2024Spring)](https://www.learncs.site/docs/curriculum-resource/cs61a/syllabus)
+- [课程相关资料，包括Homework/Lab (2024Spring)](https://www.learncs.site/docs/curriculum-resource/cs61a/syllabus)
 - [课程视频 (2022 fall)](https://www.bilibili.com/video/BV1GK411Q7qp/)
 - [中文课本](https://composingprograms.netlify.app/)
 
